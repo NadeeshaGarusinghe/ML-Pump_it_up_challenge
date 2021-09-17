@@ -71,3 +71,7 @@ I did ordinal encoding for  the following features.
 # Model selection
 I tired several ML models for classification. Logistic Regression, RandomForest Clasifier, CatBoost Classifier and XGBoost Classifier are some of them.
 The best model was obtained by XGBoost Classifier with SMOTE over-sampling technique.
+
+# Proof of submission
+![Capture](https://user-images.githubusercontent.com/47114134/133751932-fce520eb-9925-4304-a44a-9570134c7490.JPG)
+
